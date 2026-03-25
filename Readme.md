@@ -49,6 +49,8 @@ The main physical components of this layout are:
   - One Optical Spectrum Analyzer (at transmitter output, used to estimate spectral width)  
 
 ---
+## Block Diagram 
+<img width="980" height="513" alt="image" src="https://github.com/user-attachments/assets/7dd214c2-a328-41c5-919a-16b83501eecc" />
 
 ## Procedure
 - Adjust the laser power to obtain 0 dBm transmission output.  
